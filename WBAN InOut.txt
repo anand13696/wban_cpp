@@ -1,0 +1,166 @@
+SAMPLE INPUT OUTPUT 1 -
+
+Enter the x and y coordinates of sensor nodes in order EEG, ECG, Pulse, MS1 amd MS2
+200 90 10000
+250 530 10000
+30 860 10000
+130 1550 10000
+270 1550 10000
+Enter the x and y coordinates of the BNC.
+250 870
+
+ Distance 0.781601 0.340000 0.220227 0.690507 0.680294 
+ Transmission energy 30.540975 2.706494 2.515926 15.998117 14.862082 
+ Average Transmission Energy from present position of BNC 13.324719
+ Energy Available 9969.459025 9997.293506 9997.484074 9984.001883 9985.137918 
+ Utility Factor 42663.818546 5809741.804910 75327333.134494 88759.066582 96926.757510 
+ maxUF 75327333.134494 
+ uf 0.999434 0.922873 0.000000 0.998822 0.998713 
+ maxuf 0.999434 
+ xi 1.000000 0.923396 0.000000 0.999388 0.999279 
+The new position coordinates of the BNC is 166.114978 735.466771.
+
+ Average Transmission Energy from initial position of BNC 13.324719
+ Distance 0.646356 0.221931 0.184488 0.815333 0.821131 
+ Transmission energy 11.640357 2.516667 2.505603 38.479850 40.015900 
+ Average Transmission Energy from present position of BNC 19.031675
+
+ The final coordinates of the BNC is 250.000000 870.000000.
+
+
+SAMPLE INPUT OUTPUT 2 -
+
+Enter the x and y coordinates of sensor nodes in order EEG, ECG, Pulse, MS1 amd MS2
+200 90 10000
+250 530 10000
+30 860 10000
+130 1550 10000
+270 1550 10000
+Enter the x and y coordinates of the BNC.
+400 437
+
+ Distance 0.400511 0.176491 0.561987 1.145281 1.120566 
+ Transmission energy 3.042758 2.504314 6.504651 269.654686 237.389176 
+ Average Transmission Energy from present position of BNC 103.819117
+ Energy Available 9996.957242 9997.495686 9993.495349 9730.345314 9762.610824 
+ Utility Factor 2210258.538345 278119285.283952 299456.675806 4370.656766 4987.515037 
+ maxUF 278119285.283952 
+ uf 0.992053 0.000000 0.998923 0.999984 0.999982 
+ maxuf 0.999984 
+ xi 0.992068 0.000000 0.998939 1.000000 0.999998 
+The new position coordinates of the BNC is 125.676251 809.674048.
+
+ Average Transmission Energy from initial position of BNC 103.819117
+ Distance 0.723502 0.306062 0.108105 0.740339 0.754262 
+ Transmission energy 20.277666 2.611034 2.500239 22.862003 25.228143 
+ Average Transmission Energy from present position of BNC 14.695817
+ Energy Available 9979.722334 9997.388966 9997.499761 9977.137997 9974.771857 
+ Utility Factor 67363.550069 10804652.059627 5014252254.535419 58798.566211 52664.778290 
+ maxUF 5014252254.535419 
+ uf 0.999987 0.997845 0.000000 0.999988 0.999989 
+ maxuf 0.999989 
+ xi 0.999997 0.997856 0.000000 0.999999 1.000000 
+The new position coordinates of the BNC is 169.892636 743.772271.
+
+ Average Transmission Energy from initial position of BNC 14.695817
+ Distance 0.654465 0.228289 0.181876 0.807214 0.812419 
+ Transmission energy 12.338112 2.519690 2.505151 36.416790 37.727650 
+ Average Transmission Energy from present position of BNC 18.301479
+
+ The final coordinates of the BNC is 125.676251 809.674048.
+
+
+SAMPLE INPUT OUTPUT 3 -
+
+Enter the x and y coordinates of sensor nodes in order EEG, ECG, Pulse, MS1 amd MS2
+200 90 10000
+250 530 10000
+30 860 10000
+130 1550 10000
+270 1550 10000
+Enter the x and y coordinates of the BNC.
+250 0
+
+ Distance 0.102956 0.530000 0.887694 1.554638 1.550129 
+ Transmission energy 2.500179 5.334059 61.920129 1623.542335 1595.998113 
+ Average Transmission Energy from present position of BNC 657.858963
+ Energy Available 9997.499821 9994.665941 9938.079871 8376.457665 8404.001887 
+ Utility Factor 6687119781.672191 423195.121217 20070.127951 620.079376 632.871930 
+ maxUF 6687119781.672191 
+ uf 0.000000 0.999937 0.999997 1.000000 1.000000 
+ maxuf 1.000000 
+ xi 0.000000 0.999937 0.999997 1.000000 1.000000 
+The new position coordinates of the BNC is 135.996823 897.992801.
+
+ Average Transmission Energy from initial position of BNC 657.858963
+ Distance 0.810524 0.385247 0.112600 0.652035 0.665635 
+ Transmission energy 37.245550 2.931563 2.500304 12.124512 13.371147 
+ Average Transmission Energy from present position of BNC 13.634615
+ Energy Available 9962.754450 9997.068437 9997.499696 9987.875488 9986.628853 
+ Utility Factor 34408.162834 2779774.010001 3942874369.887725 124530.473098 110236.343479 
+ maxUF 3942874369.887725 
+ uf 0.999991 0.999295 0.000000 0.999968 0.999972 
+ maxuf 0.999991 
+ xi 1.000000 0.999304 0.000000 0.999977 0.999981 
+The new position coordinates of the BNC is 169.963553 743.913145.
+
+ Average Transmission Energy from initial position of BNC 13.634615
+ Distance 0.654603 0.228396 0.181840 0.807077 0.812270 
+ Transmission energy 12.350310 2.519744 2.505145 36.382794 37.689667 
+ Average Transmission Energy from present position of BNC 18.289532
+
+ The final coordinates of the BNC is 135.996823 897.992801.
+
+
+SAMPLE INPUT OUTPUT 4 - 
+
+Enter the x and y coordinates of sensor nodes in order EEG, ECG, Pulse, MS1 amd MS2
+200 90 10000
+250 530 10000
+30 860 10000
+130 1550 10000
+270 1550 10000
+Enter the x and y coordinates of the BNC.
+250 1550
+
+ Distance 1.460856 1.020000 0.724224 0.120000 0.020000 
+ Transmission energy 1125.461340 137.372143 20.382591 2.500443 2.500000 
+ Average Transmission Energy from present position of BNC 257.643304
+ Energy Available 8874.538660 9862.627857 9979.617409 9997.499557 9997.500000 
+ Utility Factor 948.335977 8775.091081 66967.592924 2708457604.001540 105636605776722.312500 
+ maxUF 105636605776722.312500 
+ uf 1.000000 1.000000 1.000000 0.999974 0.000000 
+ maxuf 1.000000 
+ xi 1.000000 1.000000 1.000000 0.999974 0.000000 
+The new position coordinates of the BNC is 121.999333 605.992052.
+
+ Average Transmission Energy from initial position of BNC 257.643304
+ Distance 0.521854 0.148859 0.270155 0.944042 0.955539 
+ Transmission energy 5.086556 2.501580 2.553174 87.933777 94.258753 
+ Average Transmission Energy from present position of BNC 38.466768
+ Energy Available 9994.913444 9997.498420 9997.446826 9912.066223 9905.741247 
+ Utility Factor 463701.401594 759487347.669084 22561552.965659 13922.455299 12954.502022 
+ maxUF 759487347.669084 
+ uf 0.999389 0.000000 0.970294 0.999982 0.999983 
+ maxuf 0.999983 
+ xi 0.999407 0.000000 0.970310 0.999999 1.000000 
+The new position coordinates of the BNC is 125.798088 804.882286.
+
+ Average Transmission Energy from initial position of BNC 38.466768
+ Distance 0.718723 0.301639 0.110523 0.745130 0.758943 
+ Transmission energy 19.595980 2.601897 2.500273 23.651873 26.073038 
+ Average Transmission Energy from present position of BNC 14.884612
+ Energy Available 9980.404020 9997.398103 9997.499727 9976.348127 9973.926962 
+ Utility Factor 70054.393092 11773526.322171 4400792547.411531 56598.381795 50772.888571 
+ maxUF 4400792547.411531 
+ uf 0.999984 0.997325 0.000000 0.999987 0.999988 
+ maxuf 0.999988 
+ xi 0.999996 0.997336 0.000000 0.999999 1.000000 
+The new position coordinates of the BNC is 169.866600 743.717147.
+
+ Average Transmission Energy from initial position of BNC 14.884612
+ Distance 0.654411 0.228246 0.181891 0.807268 0.812477 
+ Transmission energy 12.333335 2.519668 2.505153 36.430123 37.742469 
+ Average Transmission Energy from present position of BNC 18.306150
+
+ The final coordinates of the BNC is 125.798088 804.882286.
